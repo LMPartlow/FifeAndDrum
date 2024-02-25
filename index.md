@@ -1,37 +1,22 @@
 ---
 layout: home
-title: You are welcome here
-subtitle: First Presbyterian Church <em>of</em> Beacon
-share-title: FPC of Beacon
+title: Young Colonials Fyfe & Drum Corps 	
+subtitle: Carmel, New York
+share-title: Young Colonials
 cover-img: "images/FPC_Screenshots_dark.jpg"
 show-avatar: false
 ---
 
-## Worship with us every Sunday at 10am
 
-Follow us on [Facebook FPCBNY](http://facebook.com/FPCBNY) and [Instagram @fpcbny](https://www.instagram.com/fpcbny/) for the most up to date information! 
-We also offer all our services live streaming on [YouTube @BeaconPresbyChurch](http://youtube.com/user/BeaconPresbyChurch).
 
-## Our Vision
+The Young Colonials Fyfe & Drum Corps formed in Lake Carmel, NY in 1973.  The corps has spent the past forty years introducing young people ages 8 - 18 to America's history.  Corps members learn how to march and eventually to play the fife - a small, wooden, flute-like instrument with six holes or rudimental snare or bass drums - rope tension drums.  The Young Colonials are instructed by professional musicians including past members of West Point Hellcats.  The corps marches in about 30 community and firemen parades, competitions and musters throughout the year.  The Young Colonials have performed in Niagara Falls - US & Canadian sides, Busch Gardens VA, Greenfield Village, MI, Washington DC, Colonial Williamsburg, Boston, MA, Cedar Point Amusement Park, OH, Gatlinburg, Tennessee, Lugano, Switzerland and Disney World Florida FIVE times! The Young Colonials host their own muster (colonial music festival) the third Saturday of August for the past 31 years.  Click on "The Muster" tab for more details! 
 
-**Bridging Worlds. Encountering God. Healing Lives.** 
 
-> First Presbyterian Church is a community of deep roots. We have been worshiping God at the foot of Mount Beacon since 1832. We love God, care for each other, and serve our community. The nearby Hudson gives life in the muddy mixing of different waters. Likewise, we experience Jesus Christ’s transforming presence when we authentically share joys and struggles of our diverse lives. Come as you are. We love music, food, and forming real relationships. Working together, and with partners in the community, we strive to help each other blossom into the fullness of who the Holy Spirit calls us to be. As changed people, we are called to change the world.
-
-## Contribute
-
-If you'd like to help us out, please see our [donation](donate.md) page.
 
 ## Contact Us
 
-* Email: [office@beaconpresbychurch.org](mailto:office@beaconpresbychurch.org)
-* Phone: [845-831-5322](tel:845-831-5322)
-* Mail: 50 Liberty Street, Beacon, NY 12508
-* Facebook: [facebook.com/FPCBNY](http://facebook.com/FPCBNY)
-* Instagram: [@fpcbny](https://www.instagram.com/fpcbny/)
+* Email: [youngcolonials@gmail.com](mailto:youngcolonials@gmail.com)
+* Facebook: [facebook.com/groups/youngcolonials/](https://facebook.com/groups/youngcolonials/)
+* Instagram: [@youngcolonials_fifeanddrum](https://www.instagram.com/youngcolonials_fifeanddrum/)
 
-### Our Pastor
 
-**Reverend Dr. Eileen Borduin Vanderzwan** comes to us from Rochester, New York where she served as a transitional pastor. She received her MDiv from Princeton Theological Seminary, during which time she acquired her Field Education in Troon Scotland, serving as Associate Pastor. She received her Doctoral Degree at Colgate Rochester Crozer Divinity School in Transformational Ministry with a Concentration in Prophetic Preaching and a focus on Worship and the Arts. 
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2988.0777741135653!2d-73.9623172846394!3d41.50258937925374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89dd3167534c09f1%3A0x9c65275fc9d5213c!2sFirst%20Presbyterian%20Church!5e0!3m2!1sen!2sus!4v1585499610358!5m2!1sen!2sus" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
