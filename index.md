@@ -3,7 +3,7 @@ layout: home
 title: Young Colonials Fyfe & Drum Corps 	
 subtitle: Carmel, New York
 share-title: Young Colonials
-cover-img: "images/FPC_Screenshots_dark.jpg"
+cover-img: "images/YC_banner.jpg"
 show-avatar: false
 ---
 
